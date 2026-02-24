@@ -17,7 +17,7 @@ problemsets/pset3/pset3_blank.pdf
 problemsets/pset4/pset4_blank.pdf
 problemsets/pset5/pset5_blank.pdf
 problemsets/pset6/pset6_blank.pdf
-problemsets/pset7/
+problemsets/pset7/pset7_blank.pdf
 problemsets/pset8/
 
 # lectures
@@ -34,7 +34,7 @@ problemsets/pset8/
 # lectures/lec12/
 # lectures/lec13/
 # lectures/lec14/
-lectures/lec15/
+# lectures/lec15/
 
 
 # activity solutions
@@ -50,5 +50,5 @@ lectures/lec15/
 # activity_solutions/lec11_activity.ipynb
 # activity_solutions/lec12_activity.ipynb
 # activity_solutions/lec13_activity.ipynb
-activity_solutions/lec14_activity.ipynb
+# activity_solutions/lec14_activity.ipynb
 activity_solutions/lec15_activity.ipynb
